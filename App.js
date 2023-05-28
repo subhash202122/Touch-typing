@@ -15,7 +15,7 @@ const App = () => {
   const SNIPPETS = [
     'The quick brown fox jumps over the lazy dog.',
     'The five boxing wizards jump quickly.',
-    'OThe Taj Mahal is a magnificent monument located in Agra, Uttar Pradesh.',
+    'The Taj Mahal is a magnificent monument located in Agra, Uttar Pradesh.',
     'Diwali, also known as the Festival of Lights, is widely celebrated in India.',
     'Yoga is an ancient practice that originated in India for physical and mental well-being.',
     'The Ganges River is considered sacred by Hindus and is a lifeline for millions of people.',
